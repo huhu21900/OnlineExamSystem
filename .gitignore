@@ -1,0 +1,20 @@
+"node_modules/" 
+"*.zip" 
+".DS_Store" 
+# 通用忽略项
+*.log
+*.class
+*.jar
+*.war
+*.zip
+.DS_Store
+
+# Node.js 忽略项（前端用）
+node_modules/
+
+# IntelliJ IDEA 忽略项
+.idea/
+*.iml
+
+# Maven 构建输出
+target/
