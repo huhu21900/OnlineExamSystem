@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="white" fill-opacity="0"/>
+  <!-- 底部装饰 -->
+  <rect x="30" y="152" width="140" height="18" rx="6" fill="#E6F1FC"/>
+  
+  <!-- 主体文件形状 -->
+  <path d="M50 30C50 23.3726 55.3726 18 62 18H138C144.627 18 150 23.3726 150 30V170C150 176.627 144.627 182 138 182H62C55.3726 182 50 176.627 50 170V30Z" fill="#409EFF"/>
+  
+  <!-- 纸张内层 -->
+  <path d="M62 28C62 25.7909 63.7909 24 66 24H134C136.209 24 138 25.7909 138 28V170C138 172.209 136.209 174 134 174H66C63.7909 174 62 172.209 62 170V28Z" fill="white"/>
+  
+  <!-- 顶部装饰 -->
+  <rect x="70" y="38" width="60" height="8" rx="4" fill="#409EFF" fill-opacity="0.3"/>
+  <rect x="70" y="54" width="60" height="8" rx="4" fill="#409EFF" fill-opacity="0.3"/>
+  
+  <!-- 试卷上的线条 -->
+  <rect x="70" y="78" width="60" height="2" rx="1" fill="#DCDFE6"/>
+  <rect x="70" y="90" width="60" height="2" rx="1" fill="#DCDFE6"/>
+  <rect x="70" y="102" width="60" height="2" rx="1" fill="#DCDFE6"/>
+  <rect x="70" y="114" width="60" height="2" rx="1" fill="#DCDFE6"/>
+  <rect x="70" y="126" width="60" height="2" rx="1" fill="#DCDFE6"/>
+  <rect x="70" y="138" width="60" height="2" rx="1" fill="#DCDFE6"/>
+  
+  <!-- 笔 -->
+  <path d="M120 70L140 50L150 60L130 80L120 70Z" fill="#F56C6C"/>
+  <path d="M118 72L116 84L128 82L118 72Z" fill="#F56C6C"/>
+  
+  <!-- 答题框 -->
+  <rect x="60" y="70" width="10" height="10" rx="2" stroke="#409EFF" stroke-width="2"/>
+  <rect x="60" y="94" width="10" height="10" rx="2" stroke="#409EFF" stroke-width="2"/>
+  <rect x="60" y="118" width="10" height="10" rx="2" stroke="#409EFF" stroke-width="2"/>
+  <path d="M62 74L64.5 76.5L68 73" stroke="#409EFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg> 
